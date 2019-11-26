@@ -1,0 +1,17 @@
+{
+    "name": "simkojacint/hungariannumber2text",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacint Simko",
+            "email": "simkojacint@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+}
